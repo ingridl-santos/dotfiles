@@ -1,0 +1,5 @@
+[user]
+	name = Ingrid Santos
+	email = ils@icomp.ufam.edu.br
+[alias]
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit
